@@ -87,7 +87,6 @@ public class Main {
                 System.out.println("Ошибка!!! Необходимо ввести ЦЕЛОЕ ПОЛОЖИТЕЛЬНОЕ ЧИСЛО, а вы ввели \"" + input +
                         "\"");
             }
-            System.out.println();
         }
     }
 }
